@@ -1,0 +1,8 @@
+INSERT HERE: First dialogue of the game
+INSERT HERE: Final dialogue of the game
+INSERT HERE: Next dialogue of the game if user chooses first response
+INSERT HERE: Next dialogue of the game if user chooses second response
+INSERT HERE: Next dialogue of the game if user chooses first response to previous dialogue
+INSERT HERE: Next dialogue of the game if user chooses second response to previous dialogue
+(keep writing based on this structure)
+...

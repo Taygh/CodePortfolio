@@ -1,0 +1,12 @@
+INSERT HERE: First response to initial dialogue
+INSERT HERE: Second response to initial dialogue
+INSERT HERE: First response if last chosen response was the first one
+INSERT HERE: Second response if last chosen respnse was the first one
+INSERT HERE: First response if last chosen response was the second one
+INSERT HERE: Second response if last chosen respnse was the second one
+INSERT HERE: First response if last chosen response was the first one
+INSERT HERE: Second response if last chosen respnse was the first one
+INSERT HERE: First response if last chosen response was the second one
+INSERT HERE: Second response if last chosen respnse was the second one
+(keep writing based on this structure)
+...
